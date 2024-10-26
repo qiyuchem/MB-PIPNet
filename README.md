@@ -1,3 +1,4 @@
+#MB-PIPNet model
 1. The source codes to perform energy and gradient calculations on MB-PIPNet model are provided in "src-getpot"
 
 2. The PIP 1b and 2b used in the example are provided in "PIP_bases" including "bemsa1b.f90" and "bemsa2b.f90".
