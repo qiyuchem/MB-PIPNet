@@ -1,0 +1,11 @@
+768 256 49 139 139               #Natm,Nmol,Ninput1b,Ninput2b
+3                        #Layer
+188  15 30 1             #NN structure
+2
+2
+3
+
+
+tansig
+tansig
+purelin
