@@ -18,7 +18,7 @@ A: for gas phase system
  Potential energy (a.u.)
     -0.02487896
  Gradient: Analytical V.S. Numerical, (a.u.)
-    -0.00008382    -0.00008377
+    -0.00008382    -0.00008377\\
     -0.00043106    -0.00043108
      0.00000294     0.00000295
      0.00073955     0.00073956
